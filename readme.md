@@ -5,6 +5,10 @@ between OS easting/northing (example: 528376.804,180799.396)
 and what everyone else uses, latitude/longitude (example: 51.511547,-0.151412). 
 In other words, the same conversion as [this online converter](http://gps.ordnancesurvey.co.uk/convert.asp)
 
+This fork of the project includes a Gradle configuration to allow the use of
+the project with your Gradle based projects. The original code by Michael Tandy
+remains unchanged. Please see the section about licensing for more information.
+
 ## So how do I use it?
 
 ```Java
